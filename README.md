@@ -5,9 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/ab395487-e3b8-4819-8684-741a8fcc5c77)
 
-This is a paragraph from [Nature Human Behavior](https://doi.org/10.1038/s41562-024-01879-8
-        
-        ) which discusses the formula for calculating the F-value of an SNP and also provides appropriate references. It is widely known in related research that $F > 10$ implies that the instrumental variable has sufficient strength. However, these widely applied formulas inevitably yield $F > 10$.
+This is a paragraph from [Nature Human Behavior](https://doi.org/10.1038/s41562-024-01879-8) which discusses the formula for calculating the F-value of an SNP and also provides appropriate references. It is widely known in related research that $F > 10$ implies that the instrumental variable has sufficient strength. However, these widely applied formulas inevitably yield $F > 10$.
 
 ## Converting the F-calculation from the Nature Human Behavior paper into R code
 
