@@ -1,6 +1,5 @@
 
 # F-stat-in-MR
-Arguing that the F-statistic is meaningless in MR studies.
 
 **Arguing That the F-Value in MR Studies Is Meaningless**
 
